@@ -921,143 +921,139 @@ export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 12, 8, 0),
-    end: new Date(2024, 7, 12, 8, 45),
+    start: new Date(2025, 3, 28, 8, 0), // 28 апреля 2025, 8:00
+    end: new Date(2025, 3, 28, 8, 45),  // 28 апреля 2025, 8:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 12, 9, 0),
-    end: new Date(2024, 7, 12, 9, 45),
+    start: new Date(2025, 3, 28, 9, 0),  // 28 апреля 2025, 9:00
+    end: new Date(2025, 3, 28, 9, 45),   // 28 апреля 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 12, 10, 0),
-    end: new Date(2024, 7, 12, 10, 45),
+    start: new Date(2025, 3, 28, 10, 0), // 28 апреля 2025, 10:00
+    end: new Date(2025, 3, 28, 10, 45),  // 28 апреля 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 12, 11, 0),
-    end: new Date(2024, 7, 12, 11, 45),
+    start: new Date(2025, 3, 28, 11, 0), // 28 апреля 2025, 11:00
+    end: new Date(2025, 3, 28, 11, 45),  // 28 апреля 2025, 11:45
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 12, 13, 0),
-    end: new Date(2024, 7, 12, 13, 45),
+    start: new Date(2025, 3, 28, 13, 0), // 28 апреля 2025, 13:00
+    end: new Date(2025, 3, 28, 13, 45),  // 28 апреля 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 12, 14, 0),
-    end: new Date(2024, 7, 12, 14, 45),
+    start: new Date(2025, 3, 28, 14, 0), // 28 апреля 2025, 14:00
+    end: new Date(2025, 3, 28, 14, 45),  // 28 апреля 2025, 14:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 13, 9, 0),
-    end: new Date(2024, 7, 13, 9, 45),
+    start: new Date(2025, 3, 29, 9, 0),  // 29 апреля 2025, 9:00
+    end: new Date(2025, 3, 29, 9, 45),   // 29 апреля 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 13, 10, 0),
-    end: new Date(2024, 7, 13, 10, 45),
+    start: new Date(2025, 3, 29, 10, 0), // 29 апреля 2025, 10:00
+    end: new Date(2025, 3, 29, 10, 45),  // 29 апреля 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 13, 11, 0),
-    end: new Date(2024, 7, 13, 11, 45),
+    start: new Date(2025, 3, 29, 11, 0), // 29 апреля 2025, 11:00
+    end: new Date(2025, 3, 29, 11, 45),  // 29 апреля 2025, 11:45
   },
-
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 13, 14, 0),
-    end: new Date(2024, 7, 13, 14, 45),
+    start: new Date(2025, 3, 29, 14, 0), // 29 апреля 2025, 14:00
+    end: new Date(2025, 3, 29, 14, 45),  // 29 апреля 2025, 14:45
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 14, 8, 0),
-    end: new Date(2024, 7, 14, 8, 45),
+    start: new Date(2025, 3, 30, 8, 0),  // 30 апреля 2025, 8:00
+    end: new Date(2025, 3, 30, 8, 45),   // 30 апреля 2025, 8:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 14, 10, 0),
-    end: new Date(2024, 7, 14, 10, 45),
+    start: new Date(2025, 3, 30, 10, 0), // 30 апреля 2025, 10:00
+    end: new Date(2025, 3, 30, 10, 45),  // 30 апреля 2025, 10:45
   },
-
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 14, 13, 0),
-    end: new Date(2024, 7, 14, 13, 45),
+    start: new Date(2025, 3, 30, 13, 0), // 30 апреля 2025, 13:00
+    end: new Date(2025, 3, 30, 13, 45),  // 30 апреля 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 14, 14, 0),
-    end: new Date(2024, 7, 13, 14, 45),
+    start: new Date(2025, 3, 30, 14, 0), // 30 апреля 2025, 14:00
+    end: new Date(2025, 3, 30, 14, 45),  // 30 апреля 2025, 14:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 15, 9, 0),
-    end: new Date(2024, 7, 15, 9, 45),
+    start: new Date(2025, 4, 1, 9, 0),   // 1 мая 2025, 9:00
+    end: new Date(2025, 4, 1, 9, 45),    // 1 мая 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2024, 7, 15, 10, 0),
-    end: new Date(2024, 7, 15, 10, 45),
+    start: new Date(2025, 4, 1, 10, 0),  // 1 мая 2025, 10:00
+    end: new Date(2025, 4, 1, 10, 45),   // 1 мая 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 15, 11, 0),
-    end: new Date(2024, 7, 15, 11, 45),
+    start: new Date(2025, 4, 1, 11, 0),  // 1 мая 2025, 11:00
+    end: new Date(2025, 4, 1, 11, 45),   // 1 мая 2025, 11:45
   },
-
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 15, 14, 0),
-    end: new Date(2024, 7, 15, 14, 45),
+    start: new Date(2025, 4, 1, 14, 0),  // 1 мая 2025, 14:00
+    end: new Date(2025, 4, 1, 14, 45),   // 1 мая 2025, 14:45
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2024, 7, 16, 8, 0),
-    end: new Date(2024, 7, 16, 8, 45),
+    start: new Date(2025, 4, 2, 8, 0),   // 2 мая 2025, 8:00
+    end: new Date(2025, 4, 2, 8, 45),    // 2 мая 2025, 8:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2024, 7, 16, 9, 0),
-    end: new Date(2024, 7, 16, 9, 45),
+    start: new Date(2025, 4, 2, 9, 0),   // 2 мая 2025, 9:00
+    end: new Date(2025, 4, 2, 9, 45),    // 2 мая 2025, 9:45
   },
-
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2024, 7, 16, 11, 0),
-    end: new Date(2024, 7, 16, 11, 45),
+    start: new Date(2025, 4, 2, 11, 0),  // 2 мая 2025, 11:00
+    end: new Date(2025, 4, 2, 11, 45),   // 2 мая 2025, 11:45
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2024, 7, 16, 13, 0),
-    end: new Date(2024, 7, 16, 13, 45),
+    start: new Date(2025, 4, 2, 13, 0),  // 2 мая 2025, 13:00
+    end: new Date(2025, 4, 2, 13, 45),   // 2 мая 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2024, 7, 16, 14, 0),
-    end: new Date(2024, 7, 16, 14, 45),
-  },
+    start: new Date(2025, 4, 2, 14, 0),  // 2 мая 2025, 14:00
+    end: new Date(2025, 4, 2, 14, 45),   // 2 мая 2025, 14:45
+  }
 ];
