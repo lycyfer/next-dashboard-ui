@@ -15,7 +15,7 @@ const SingleTeacherPage = () => {
           <div className="bg-vSky p-6 px-4 rounded-md flex-1 flex gap-4">
             <div className="w-1/3">
               <Image
-                src="https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+                src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
                 alt=""
                 width={144}
                 height={144}
@@ -23,7 +23,7 @@ const SingleTeacherPage = () => {
               />
             </div>
             <div className="w-2/3 flex flex-col justify-between gap-4">
-              <h1 className="text-xl font-semibold">Lenoid D</h1>
+              <h1 className="text-xl font-semibold">Lana D</h1>
               <p className="text-sm text-gray-500">
                 Lorem ipsum dolor sit amet consectetur
               </p>
@@ -59,7 +59,7 @@ const SingleTeacherPage = () => {
                 className="w-6 h-6"
               />
               <div className="">
-                <h1 className="text-xl font-semibold ">90%</h1>
+                <h1 className="text-xl font-semibold ">94%</h1>
                 <span className="text-sm text-gray-500">Attendance</span>
               </div>
             </div>
@@ -73,8 +73,8 @@ const SingleTeacherPage = () => {
                 className="w-6 h-6"
               />
               <div>
-                <h1 className="text-xl font-semibold ">6</h1>
-                <span className="text-sm text-gray-500">Classes</span>
+                <h1 className="text-xl font-semibold ">6th</h1>
+                <span className="text-sm text-gray-500">Grade</span>
               </div>
             </div>
             {/* CARD */}
@@ -87,7 +87,7 @@ const SingleTeacherPage = () => {
                 className="w-6 h-6"
               />
               <div className="">
-                <h1 className="text-xl font-semibold ">6</h1>
+                <h1 className="text-xl font-semibold ">18</h1>
                 <span className="text-sm text-gray-500">Lessons</span>
               </div>
             </div>
@@ -101,8 +101,8 @@ const SingleTeacherPage = () => {
                 className="w-6 h-6"
               />
               <div className="">
-                <h1 className="text-xl font-semibold ">2</h1>
-                <span className="text-sm text-gray-500">Branches</span>
+                <h1 className="text-xl font-semibold ">6A</h1>
+                <span className="text-sm text-gray-500">Class Name</span>
               </div>
             </div>
           </div>
@@ -119,19 +119,22 @@ const SingleTeacherPage = () => {
           <h1 className="text-xl font-semibold">Shortcuts</h1>
           <div className="mt-4 flex gap-4 flex-wrap text-xs text-gray-500">
             <Link href="/" className="p-3 rounded-md bg-vSkyLight">
-              Teacher&apos;s Classes
+              Student&apos;s Lessons
             </Link>
             <Link href="/" className="p-3 rounded-md bg-vSkyLight">
-              Teacher&apos;s Students
+              Student&apos;s Teachers
             </Link>
             <Link href="/" className="p-3 rounded-md bg-vSkyLight">
-              Teacher&apos;s Lesson
+              Student&apos;s Lessons
             </Link>
             <Link href="/" className="p-3 rounded-md bg-pink-50">
-              Teacher&apos;s Exams
+              Student&apos;s Exams
             </Link>
             <Link href="/" className="p-3 rounded-md bg-vSkyLight">
               Teacher&apos;s Assignments
+            </Link>
+            <Link href="/" className="p-3 rounded-md bg-vSkyLight">
+              Teacher&apos;s Results
             </Link>
           </div>
         </div>

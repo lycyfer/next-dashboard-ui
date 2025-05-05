@@ -901,139 +901,139 @@ export const calendarEvents = [
   {
     title: "Math",
     allDay: false,
-    start: new Date(2025, 3, 28, 8, 0), // 28 апреля 2025, 8:00
-    end: new Date(2025, 3, 28, 8, 45),  // 28 апреля 2025, 8:45
+    start: new Date(2025, 4, 5, 8, 0), // 5 мая 2025, 8:00
+    end: new Date(2025, 4, 5, 8, 45),  // 5 мая 2025, 8:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 3, 28, 9, 0),  // 28 апреля 2025, 9:00
-    end: new Date(2025, 3, 28, 9, 45),   // 28 апреля 2025, 9:45
+    start: new Date(2025, 4, 5, 9, 0),  // 5 мая 2025, 9:00
+    end: new Date(2025, 4, 5, 9, 45),   // 5 мая 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 3, 28, 10, 0), // 28 апреля 2025, 10:00
-    end: new Date(2025, 3, 28, 10, 45),  // 28 апреля 2025, 10:45
+    start: new Date(2025, 4, 5, 10, 0), // 5 мая 2025, 10:00
+    end: new Date(2025, 4, 5, 10, 45),  // 5 мая 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 3, 28, 11, 0), // 28 апреля 2025, 11:00
-    end: new Date(2025, 3, 28, 11, 45),  // 28 апреля 2025, 11:45
+    start: new Date(2025, 4, 5, 11, 0), // 5 мая 2025, 11:00
+    end: new Date(2025, 4, 5, 11, 45),  // 5 мая 2025, 11:45
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2025, 3, 28, 13, 0), // 28 апреля 2025, 13:00
-    end: new Date(2025, 3, 28, 13, 45),  // 28 апреля 2025, 13:45
+    start: new Date(2025, 4, 5, 13, 0), // 5 мая 2025, 13:00
+    end: new Date(2025, 4, 5, 13, 45),  // 5 мая 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 3, 28, 14, 0), // 28 апреля 2025, 14:00
-    end: new Date(2025, 3, 28, 14, 45),  // 28 апреля 2025, 14:45
+    start: new Date(2025, 4, 5, 14, 0), // 5 мая 2025, 14:00
+    end: new Date(2025, 4, 5, 14, 45),  // 5 мая 2025, 14:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 3, 29, 9, 0),  // 29 апреля 2025, 9:00
-    end: new Date(2025, 3, 29, 9, 45),   // 29 апреля 2025, 9:45
+    start: new Date(2025, 4, 6, 9, 0),  // 6 мая 2025, 9:00
+    end: new Date(2025, 4, 6, 9, 45),   // 6 мая 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 3, 29, 10, 0), // 29 апреля 2025, 10:00
-    end: new Date(2025, 3, 29, 10, 45),  // 29 апреля 2025, 10:45
+    start: new Date(2025, 4, 6, 10, 0), // 6 мая 2025, 10:00
+    end: new Date(2025, 4, 6, 10, 45),  // 6 мая 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 3, 29, 11, 0), // 29 апреля 2025, 11:00
-    end: new Date(2025, 3, 29, 11, 45),  // 29 апреля 2025, 11:45
+    start: new Date(2025, 4, 6, 11, 0), // 6 мая 2025, 11:00
+    end: new Date(2025, 4, 6, 11, 45),  // 6 мая 2025, 11:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 3, 29, 14, 0), // 29 апреля 2025, 14:00
-    end: new Date(2025, 3, 29, 14, 45),  // 29 апреля 2025, 14:45
+    start: new Date(2025, 4, 6, 14, 0), // 6 мая 2025, 14:00
+    end: new Date(2025, 4, 6, 14, 45),  // 6 мая 2025, 14:45
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2025, 3, 30, 8, 0),  // 30 апреля 2025, 8:00
-    end: new Date(2025, 3, 30, 8, 45),   // 30 апреля 2025, 8:45
+    start: new Date(2025, 4, 7, 8, 0),  // 7 мая 2025, 8:00
+    end: new Date(2025, 4, 7, 8, 45),   // 7 мая 2025, 8:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 3, 30, 10, 0), // 30 апреля 2025, 10:00
-    end: new Date(2025, 3, 30, 10, 45),  // 30 апреля 2025, 10:45
+    start: new Date(2025, 4, 7, 10, 0), // 7 мая 2025, 10:00
+    end: new Date(2025, 4, 7, 10, 45),  // 7 мая 2025, 10:45
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2025, 3, 30, 13, 0), // 30 апреля 2025, 13:00
-    end: new Date(2025, 3, 30, 13, 45),  // 30 апреля 2025, 13:45
+    start: new Date(2025, 4, 7, 13, 0), // 7 мая 2025, 13:00
+    end: new Date(2025, 4, 7, 13, 45),  // 7 мая 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 3, 30, 14, 0), // 30 апреля 2025, 14:00
-    end: new Date(2025, 3, 30, 14, 45),  // 30 апреля 2025, 14:45
+    start: new Date(2025, 4, 7, 14, 0), // 7 мая 2025, 14:00
+    end: new Date(2025, 4, 7, 14, 45),  // 7 мая 2025, 14:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 4, 1, 9, 0),   // 1 мая 2025, 9:00
-    end: new Date(2025, 4, 1, 9, 45),    // 1 мая 2025, 9:45
+    start: new Date(2025, 4, 8, 9, 0),  // 8 мая 2025, 9:00
+    end: new Date(2025, 4, 8, 9, 45),   // 8 мая 2025, 9:45
   },
   {
     title: "Biology",
     allDay: false,
-    start: new Date(2025, 4, 1, 10, 0),  // 1 мая 2025, 10:00
-    end: new Date(2025, 4, 1, 10, 45),   // 1 мая 2025, 10:45
+    start: new Date(2025, 4, 8, 10, 0), // 8 мая 2025, 10:00
+    end: new Date(2025, 4, 8, 10, 45),  // 8 мая 2025, 10:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 4, 1, 11, 0),  // 1 мая 2025, 11:00
-    end: new Date(2025, 4, 1, 11, 45),   // 1 мая 2025, 11:45
+    start: new Date(2025, 4, 8, 11, 0), // 8 мая 2025, 11:00
+    end: new Date(2025, 4, 8, 11, 45),  // 8 мая 2025, 11:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 4, 1, 14, 0),  // 1 мая 2025, 14:00
-    end: new Date(2025, 4, 1, 14, 45),   // 1 мая 2025, 14:45
+    start: new Date(2025, 4, 8, 14, 0), // 8 мая 2025, 14:00
+    end: new Date(2025, 4, 8, 14, 45),  // 8 мая 2025, 14:45
   },
   {
     title: "Math",
     allDay: false,
-    start: new Date(2025, 4, 2, 8, 0),   // 2 мая 2025, 8:00
-    end: new Date(2025, 4, 2, 8, 45),    // 2 мая 2025, 8:45
+    start: new Date(2025, 4, 9, 8, 0),  // 9 мая 2025, 8:00
+    end: new Date(2025, 4, 9, 8, 45),   // 9 мая 2025, 8:45
   },
   {
     title: "English",
     allDay: false,
-    start: new Date(2025, 4, 2, 9, 0),   // 2 мая 2025, 9:00
-    end: new Date(2025, 4, 2, 9, 45),    // 2 мая 2025, 9:45
+    start: new Date(2025, 4, 9, 9, 0),  // 9 мая 2025, 9:00
+    end: new Date(2025, 4, 9, 9, 45),   // 9 мая 2025, 9:45
   },
   {
     title: "Physics",
     allDay: false,
-    start: new Date(2025, 4, 2, 11, 0),  // 2 мая 2025, 11:00
-    end: new Date(2025, 4, 2, 11, 45),   // 2 мая 2025, 11:45
+    start: new Date(2025, 4, 9, 11, 0), // 9 мая 2025, 11:00
+    end: new Date(2025, 4, 9, 11, 45),  // 9 мая 2025, 11:45
   },
   {
     title: "Chemistry",
     allDay: false,
-    start: new Date(2025, 4, 2, 13, 0),  // 2 мая 2025, 13:00
-    end: new Date(2025, 4, 2, 13, 45),   // 2 мая 2025, 13:45
+    start: new Date(2025, 4, 9, 13, 0), // 9 мая 2025, 13:00
+    end: new Date(2025, 4, 9, 13, 45),  // 9 мая 2025, 13:45
   },
   {
     title: "History",
     allDay: false,
-    start: new Date(2025, 4, 2, 14, 0),  // 2 мая 2025, 14:00
-    end: new Date(2025, 4, 2, 14, 45),   // 2 мая 2025, 14:45
+    start: new Date(2025, 4, 9, 14, 0), // 9 мая 2025, 14:00
+    end: new Date(2025, 4, 9, 14, 45),  // 9 мая 2025, 14:45
   }
 ];
